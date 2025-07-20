@@ -1,0 +1,301 @@
+Task ID,Task Description,Deadline,Priority,Assigned User,User Workload,Category,deadline_days_remaining,task_length,has_keyword_urgent,is_weekend_deadline,category_encoded,status_encoded,priority_encoded,Cleaned_Description,priority_rank,New Assigned User
+T0204,Resolve payment gateway timeout issue,2025-05-26,High,User_10,7,Testing,-56.0,5,0,0,5,1,0,resolv payment gateway timeout issu,0,User_8
+T0238,Fix critical bug in deployment pipeline,2025-05-26,High,User_1,10,Design,-56.0,6,0,0,0,2,0,fix critic bug deploy pipelin,0,User_10
+T0235,Restore database from backup,2025-05-26,High,User_9,5,DevOps,-56.0,4,0,0,1,0,0,restor databas backup,0,User_9
+T0279,Deploy hotfix for customer complaints,2025-05-26,High,User_5,6,Development,-56.0,5,0,0,2,1,0,deploy hotfix custom complaint,0,User_8
+T0246,Patch security vulnerability in auth system,2025-05-26,High,User_4,3,Testing,-56.0,6,0,0,5,0,0,patch secur vulner auth system,0,User_10
+T0269,Fix critical bug in deployment pipeline,2025-05-26,High,User_10,1,Documentation,-56.0,6,0,0,3,0,0,fix critic bug deploy pipelin,0,User_6
+T0288,Resolve payment gateway timeout issue,2025-05-26,High,User_5,4,Testing,-56.0,5,0,0,5,1,0,resolv payment gateway timeout issu,0,User_3
+T0271,Patch security vulnerability in auth system,2025-05-26,High,User_7,1,Development,-56.0,6,0,0,2,2,0,patch secur vulner auth system,0,User_7
+T0290,Restore database from backup,2025-05-27,High,User_9,9,Design,-55.0,4,0,0,0,2,0,restor databas backup,0,User_1
+T0266,Patch security vulnerability in auth system,2025-05-27,High,User_6,5,Design,-55.0,6,0,0,0,0,0,patch secur vulner auth system,0,User_4
+T0211,Patch security vulnerability in auth system,2025-05-27,High,User_3,2,Testing,-55.0,6,0,0,5,2,0,patch secur vulner auth system,0,User_3
+T0209,Deploy hotfix for customer complaints,2025-05-27,High,User_6,9,Management,-55.0,5,0,0,4,0,0,deploy hotfix custom complaint,0,User_10
+T0259,Patch security vulnerability in auth system,2025-05-27,High,User_3,4,DevOps,-55.0,6,0,0,1,1,0,patch secur vulner auth system,0,User_8
+T0252,Restore database from backup,2025-05-27,High,User_5,9,Management,-55.0,4,0,0,4,0,0,restor databas backup,0,User_6
+T0206,Deploy hotfix for customer complaints,2025-05-27,High,User_9,8,Documentation,-55.0,5,0,0,3,2,0,deploy hotfix custom complaint,0,User_5
+T0230,Deploy hotfix for customer complaints,2025-05-28,High,User_5,2,Testing,-54.0,5,0,0,5,0,0,deploy hotfix custom complaint,0,User_2
+T0278,Deploy hotfix for customer complaints,2025-05-28,High,User_7,7,Development,-54.0,5,0,0,2,0,0,deploy hotfix custom complaint,0,User_4
+T0243,Resolve payment gateway timeout issue,2025-05-28,High,User_10,1,DevOps,-54.0,5,0,0,1,1,0,resolv payment gateway timeout issu,0,User_9
+T0253,Patch security vulnerability in auth system,2025-05-28,High,User_1,4,Design,-54.0,6,0,0,0,0,0,patch secur vulner auth system,0,User_1
+T0215,Restore database from backup,2025-05-28,High,User_9,2,Testing,-54.0,4,0,0,5,1,0,restor databas backup,0,User_7
+T0293,Deploy hotfix for customer complaints,2025-05-29,High,User_9,1,Development,-53.0,5,0,0,2,1,0,deploy hotfix custom complaint,0,User_3
+T0273,Deploy hotfix for customer complaints,2025-05-29,High,User_1,3,Design,-53.0,5,0,0,0,1,0,deploy hotfix custom complaint,0,User_9
+T0265,Fix critical bug in deployment pipeline,2025-05-29,High,User_5,10,Development,-53.0,6,0,0,2,0,0,fix critic bug deploy pipelin,0,User_5
+T0276,Deploy hotfix for customer complaints,2025-05-29,High,User_1,6,Development,-53.0,5,0,0,2,0,0,deploy hotfix custom complaint,0,User_1
+T0218,Restore database from backup,2025-05-29,High,User_8,2,Design,-53.0,4,0,0,0,0,0,restor databas backup,0,User_4
+T0212,Deploy hotfix for customer complaints,2025-05-30,High,User_6,3,DevOps,-52.0,5,0,0,1,2,0,deploy hotfix custom complaint,0,User_10
+T0281,Resolve payment gateway timeout issue,2025-05-30,High,User_9,2,Management,-52.0,5,0,0,4,2,0,resolv payment gateway timeout issu,0,User_7
+T0248,Resolve payment gateway timeout issue,2025-05-30,High,User_2,6,Documentation,-52.0,5,0,0,3,0,0,resolv payment gateway timeout issu,0,User_2
+T0241,Resolve payment gateway timeout issue,2025-05-30,High,User_1,8,Development,-52.0,5,0,0,2,0,0,resolv payment gateway timeout issu,0,User_6
+T0274,Resolve payment gateway timeout issue,2025-05-30,High,User_6,1,Management,-52.0,5,0,0,4,1,0,resolv payment gateway timeout issu,0,User_8
+T0244,Deploy hotfix for customer complaints,2025-05-30,High,User_4,5,Design,-52.0,5,0,0,0,1,0,deploy hotfix custom complaint,0,User_7
+T0277,Resolve payment gateway timeout issue,2025-05-30,High,User_6,2,Testing,-52.0,5,0,0,5,2,0,resolv payment gateway timeout issu,0,User_5
+T0300,Restore database from backup,2025-05-30,High,User_3,4,DevOps,-52.0,4,0,0,1,0,0,restor databas backup,0,User_8
+T0219,Patch security vulnerability in auth system,2025-05-31,High,User_1,2,Development,-51.0,6,0,1,2,0,0,patch secur vulner auth system,0,User_2
+T0239,Resolve payment gateway timeout issue,2025-05-31,High,User_4,7,Testing,-51.0,5,0,1,5,2,0,resolv payment gateway timeout issu,0,User_9
+T0213,Resolve payment gateway timeout issue,2025-05-31,High,User_3,8,Testing,-51.0,5,0,1,5,0,0,resolv payment gateway timeout issu,0,User_1
+T0221,Fix critical bug in deployment pipeline,2025-05-31,High,User_1,4,Testing,-51.0,6,0,1,5,0,0,fix critic bug deploy pipelin,0,User_6
+T0295,Patch security vulnerability in auth system,2025-05-31,High,User_9,8,Management,-51.0,6,0,1,4,0,0,patch secur vulner auth system,0,User_3
+T0236,Deploy hotfix for customer complaints,2025-05-31,High,User_7,1,Development,-51.0,5,0,1,2,1,0,deploy hotfix custom complaint,0,User_4
+T0298,Deploy hotfix for customer complaints,2025-06-01,High,User_1,9,Documentation,-50.0,5,0,1,3,1,0,deploy hotfix custom complaint,0,User_10
+T0257,Resolve payment gateway timeout issue,2025-06-01,High,User_5,1,Management,-50.0,5,0,1,4,0,0,resolv payment gateway timeout issu,0,User_5
+T0289,Fix critical bug in deployment pipeline,2025-06-01,High,User_2,8,DevOps,-50.0,6,0,1,1,2,0,fix critic bug deploy pipelin,0,User_6
+T0237,Fix critical bug in deployment pipeline,2025-06-01,High,User_9,8,Development,-50.0,6,0,1,2,0,0,fix critic bug deploy pipelin,0,User_10
+T0291,Fix critical bug in deployment pipeline,2025-06-01,High,User_2,10,DevOps,-50.0,6,0,1,1,1,0,fix critic bug deploy pipelin,0,User_3
+T0202,Patch security vulnerability in auth system,2025-06-01,High,User_4,4,Documentation,-50.0,6,0,1,3,1,0,patch secur vulner auth system,0,User_4
+T0251,Resolve payment gateway timeout issue,2025-06-02,High,User_3,10,Management,-49.0,5,0,0,4,0,0,resolv payment gateway timeout issu,0,User_2
+T0232,Resolve payment gateway timeout issue,2025-06-02,High,User_7,6,Development,-49.0,5,0,0,2,0,0,resolv payment gateway timeout issu,0,User_1
+T0240,Deploy hotfix for customer complaints,2025-06-02,High,User_1,3,Development,-49.0,5,0,0,2,0,0,deploy hotfix custom complaint,0,User_9
+T0207,Resolve payment gateway timeout issue,2025-06-02,High,User_8,2,Development,-49.0,5,0,0,2,0,0,resolv payment gateway timeout issu,0,User_7
+T0299,Deploy hotfix for customer complaints,2025-06-02,High,User_9,6,Design,-49.0,5,0,0,0,0,0,deploy hotfix custom complaint,0,User_8
+T0234,Resolve payment gateway timeout issue,2025-06-03,High,User_10,7,Development,-48.0,5,0,0,2,0,0,resolv payment gateway timeout issu,0,User_3
+T0287,Deploy hotfix for customer complaints,2025-06-03,High,User_2,3,Documentation,-48.0,5,0,0,3,0,0,deploy hotfix custom complaint,0,User_9
+T0284,Restore database from backup,2025-06-03,High,User_10,2,Development,-48.0,4,0,0,2,2,0,restor databas backup,0,User_8
+T0203,Resolve payment gateway timeout issue,2025-06-03,High,User_8,2,Design,-48.0,5,0,0,0,0,0,resolv payment gateway timeout issu,0,User_4
+T0210,Fix critical bug in deployment pipeline,2025-06-03,High,User_8,1,Management,-48.0,6,0,0,4,0,0,fix critic bug deploy pipelin,0,User_2
+T0280,Resolve payment gateway timeout issue,2025-06-03,High,User_2,4,DevOps,-48.0,5,0,0,1,1,0,resolv payment gateway timeout issu,0,User_1
+T0228,Fix critical bug in deployment pipeline,2025-06-03,High,User_3,6,Testing,-48.0,6,0,0,5,0,0,fix critic bug deploy pipelin,0,User_10
+T0222,Restore database from backup,2025-06-04,High,User_7,10,Development,-47.0,4,0,0,2,1,0,restor databas backup,0,User_5
+T0231,Patch security vulnerability in auth system,2025-06-04,High,User_6,2,DevOps,-47.0,6,0,0,1,0,0,patch secur vulner auth system,0,User_7
+T0275,Resolve payment gateway timeout issue,2025-06-04,High,User_4,5,Development,-47.0,5,0,0,2,0,0,resolv payment gateway timeout issu,0,User_6
+T0249,Deploy hotfix for customer complaints,2025-06-04,High,User_6,7,DevOps,-47.0,5,0,0,1,0,0,deploy hotfix custom complaint,0,User_7
+T0260,Restore database from backup,2025-06-04,High,User_4,6,Testing,-47.0,4,0,0,5,0,0,restor databas backup,0,User_6
+T0268,Fix critical bug in deployment pipeline,2025-06-04,High,User_8,2,Design,-47.0,6,0,0,0,0,0,fix critic bug deploy pipelin,0,User_5
+T0217,Restore database from backup,2025-06-04,High,User_10,1,Development,-47.0,4,0,0,2,0,0,restor databas backup,0,User_2
+T0262,Patch security vulnerability in auth system,2025-06-04,High,User_9,8,DevOps,-47.0,6,0,0,1,1,0,patch secur vulner auth system,0,User_8
+T0245,Deploy hotfix for customer complaints,2025-06-05,High,User_6,1,DevOps,-46.0,5,0,0,1,0,0,deploy hotfix custom complaint,0,User_10
+T0256,Patch security vulnerability in auth system,2025-06-05,High,User_9,6,Testing,-46.0,6,0,0,5,0,0,patch secur vulner auth system,0,User_3
+T0267,Deploy hotfix for customer complaints,2025-06-06,High,User_6,6,Documentation,-45.0,5,0,0,3,2,0,deploy hotfix custom complaint,0,User_1
+T0233,Fix critical bug in deployment pipeline,2025-06-06,High,User_7,3,Testing,-45.0,6,0,0,5,0,0,fix critic bug deploy pipelin,0,User_9
+T0226,Restore database from backup,2025-06-06,High,User_10,8,Documentation,-45.0,4,0,0,3,1,0,restor databas backup,0,User_4
+T0254,Patch security vulnerability in auth system,2025-06-06,High,User_7,1,Design,-45.0,6,0,0,0,2,0,patch secur vulner auth system,0,User_5
+T0297,Patch security vulnerability in auth system,2025-06-06,High,User_3,5,Management,-45.0,6,0,0,4,0,0,patch secur vulner auth system,0,User_3
+T0208,Deploy hotfix for customer complaints,2025-06-06,High,User_7,6,Testing,-45.0,5,0,0,5,2,0,deploy hotfix custom complaint,0,User_7
+T0292,Patch security vulnerability in auth system,2025-06-06,High,User_10,7,Testing,-45.0,6,0,0,5,0,0,patch secur vulner auth system,0,User_4
+T0242,Restore database from backup,2025-06-06,High,User_6,5,Development,-45.0,4,0,0,2,0,0,restor databas backup,0,User_2
+T0258,Resolve payment gateway timeout issue,2025-06-06,High,User_9,6,Development,-45.0,5,0,0,2,1,0,resolv payment gateway timeout issu,0,User_9
+T0250,Deploy hotfix for customer complaints,2025-06-07,High,User_7,6,DevOps,-44.0,5,0,1,1,2,0,deploy hotfix custom complaint,0,User_1
+T0296,Patch security vulnerability in auth system,2025-06-07,High,User_2,6,Development,-44.0,6,0,1,2,0,0,patch secur vulner auth system,0,User_10
+T0283,Deploy hotfix for customer complaints,2025-06-07,High,User_2,10,Management,-44.0,5,0,1,4,1,0,deploy hotfix custom complaint,0,User_8
+T0229,Fix critical bug in deployment pipeline,2025-06-07,High,User_6,6,Management,-44.0,6,0,1,4,0,0,fix critic bug deploy pipelin,0,User_6
+T0270,Patch security vulnerability in auth system,2025-06-07,High,User_7,10,Documentation,-44.0,6,0,1,3,1,0,patch secur vulner auth system,0,User_10
+T0224,Restore database from backup,2025-06-07,High,User_10,2,Documentation,-44.0,4,0,1,3,2,0,restor databas backup,0,User_4
+T0247,Fix critical bug in deployment pipeline,2025-06-07,High,User_8,7,Design,-44.0,6,0,1,0,2,0,fix critic bug deploy pipelin,0,User_8
+T0223,Resolve payment gateway timeout issue,2025-06-07,High,User_5,9,Documentation,-44.0,5,0,1,3,2,0,resolv payment gateway timeout issu,0,User_2
+T0285,Resolve payment gateway timeout issue,2025-06-07,High,User_7,10,Testing,-44.0,5,0,1,5,0,0,resolv payment gateway timeout issu,0,User_9
+T0294,Deploy hotfix for customer complaints,2025-06-07,High,User_6,3,Management,-44.0,5,0,1,4,1,0,deploy hotfix custom complaint,0,User_7
+T0227,Fix critical bug in deployment pipeline,2025-06-08,High,User_7,3,Documentation,-43.0,6,0,1,3,0,0,fix critic bug deploy pipelin,0,User_5
+T0282,Deploy hotfix for customer complaints,2025-06-08,High,User_10,10,Management,-43.0,5,0,1,4,2,0,deploy hotfix custom complaint,0,User_6
+T0216,Fix critical bug in deployment pipeline,2025-06-08,High,User_10,1,Testing,-43.0,6,0,1,5,0,0,fix critic bug deploy pipelin,0,User_3
+T0225,Restore database from backup,2025-06-08,High,User_7,2,Documentation,-43.0,4,0,1,3,0,0,restor databas backup,0,User_1
+T0272,Resolve payment gateway timeout issue,2025-06-08,High,User_4,2,Management,-43.0,5,0,1,4,0,0,resolv payment gateway timeout issu,0,User_6
+T0261,Restore database from backup,2025-06-08,High,User_9,6,Documentation,-43.0,4,0,1,3,2,0,restor databas backup,0,User_3
+T0214,Patch security vulnerability in auth system,2025-06-08,High,User_5,8,Development,-43.0,6,0,1,2,1,0,patch secur vulner auth system,0,User_8
+T0201,Resolve payment gateway timeout issue,2025-06-08,High,User_2,9,Documentation,-43.0,5,0,1,3,1,0,resolv payment gateway timeout issu,0,User_10
+T0220,Deploy hotfix for customer complaints,2025-06-08,High,User_1,3,Development,-43.0,5,0,1,2,0,0,deploy hotfix custom complaint,0,User_9
+T0264,Restore database from backup,2025-06-08,High,User_10,8,Testing,-43.0,4,0,1,5,0,0,restor databas backup,0,User_5
+T0263,Resolve payment gateway timeout issue,2025-06-09,High,User_5,8,Testing,-42.0,5,0,0,5,0,0,resolv payment gateway timeout issu,0,User_4
+T0255,Restore database from backup,2025-06-09,High,User_7,5,Management,-42.0,4,0,0,4,0,0,restor databas backup,0,User_1
+T0205,Fix critical bug in deployment pipeline,2025-06-09,High,User_3,9,Management,-42.0,6,0,0,4,2,0,fix critic bug deploy pipelin,0,User_2
+T0286,Restore database from backup,2025-06-09,High,User_1,6,Design,-42.0,4,0,0,0,1,0,restor databas backup,0,User_7
+T0186,Write integration tests for API,2025-05-26,Medium,User_5,9,DevOps,-56.0,5,0,0,1,0,2,write integr test api,1,User_2
+T0147,Create UI wireframes for feature,2025-05-26,Medium,User_8,4,Testing,-56.0,5,0,0,5,0,2,creat ui wirefram featur,1,User_10
+T0173,Update user guides,2025-05-26,Medium,User_2,5,Development,-56.0,3,0,0,2,1,2,updat user guid,1,User_6
+T0172,Review peer pull requests,2025-05-26,Medium,User_9,3,Documentation,-56.0,4,0,0,3,1,2,review peer pull request,1,User_8
+T0162,Create UI wireframes for feature,2025-05-26,Medium,User_1,4,Development,-56.0,5,0,0,2,1,2,creat ui wirefram featur,1,User_1
+T0132,Refactor module for scalability,2025-05-26,Medium,User_5,2,DevOps,-56.0,4,0,0,1,1,2,refactor modul scalabl,1,User_9
+T0188,Review peer pull requests,2025-05-26,Medium,User_1,4,DevOps,-56.0,4,0,0,1,2,2,review peer pull request,1,User_5
+T0114,Update user guides,2025-05-27,Medium,User_7,8,Management,-55.0,3,0,0,4,1,2,updat user guid,1,User_3
+T0105,Write integration tests for API,2025-05-27,Medium,User_2,8,Management,-55.0,5,0,0,4,1,2,write integr test api,1,User_7
+T0193,Refactor module for scalability,2025-05-27,Medium,User_9,3,Documentation,-55.0,4,0,0,3,2,2,refactor modul scalabl,1,User_4
+T0183,Create UI wireframes for feature,2025-05-28,Medium,User_1,7,Management,-54.0,5,0,0,4,1,2,creat ui wirefram featur,1,User_3
+T0180,Create UI wireframes for feature,2025-05-28,Medium,User_10,1,Testing,-54.0,5,0,0,5,0,2,creat ui wirefram featur,1,User_8
+T0148,Update user guides,2025-05-28,Medium,User_5,8,Documentation,-54.0,3,0,0,3,2,2,updat user guid,1,User_5
+T0185,Write integration tests for API,2025-05-28,Medium,User_6,4,DevOps,-54.0,5,0,0,1,1,2,write integr test api,1,User_9
+T0118,Create UI wireframes for feature,2025-05-28,Medium,User_10,8,Development,-54.0,5,0,0,2,0,2,creat ui wirefram featur,1,User_7
+T0175,Review peer pull requests,2025-05-28,Medium,User_7,10,Development,-54.0,4,0,0,2,2,2,review peer pull request,1,User_10
+T0166,Update user guides,2025-05-29,Medium,User_7,7,Testing,-53.0,3,0,0,5,2,2,updat user guid,1,User_6
+T0120,Review peer pull requests,2025-05-29,Medium,User_1,10,DevOps,-53.0,4,0,0,1,2,2,review peer pull request,1,User_2
+T0174,Write integration tests for API,2025-05-29,Medium,User_9,8,Development,-53.0,5,0,0,2,0,2,write integr test api,1,User_4
+T0130,Write integration tests for API,2025-05-29,Medium,User_6,8,Design,-53.0,5,0,0,0,2,2,write integr test api,1,User_1
+T0164,Create UI wireframes for feature,2025-05-29,Medium,User_7,6,DevOps,-53.0,5,0,0,1,1,2,creat ui wirefram featur,1,User_7
+T0171,Update user guides,2025-05-29,Medium,User_10,1,DevOps,-53.0,3,0,0,1,2,2,updat user guid,1,User_1
+T0137,Refactor module for scalability,2025-05-29,Medium,User_6,8,Design,-53.0,4,0,0,0,2,2,refactor modul scalabl,1,User_9
+T0150,Create UI wireframes for feature,2025-05-29,Medium,User_2,7,Management,-53.0,5,0,0,4,1,2,creat ui wirefram featur,1,User_2
+T0156,Write integration tests for API,2025-05-30,Medium,User_5,9,Testing,-52.0,5,0,0,5,0,2,write integr test api,1,User_5
+T0199,Review peer pull requests,2025-05-30,Medium,User_6,5,DevOps,-52.0,4,0,0,1,1,2,review peer pull request,1,User_6
+T0146,Review peer pull requests,2025-05-30,Medium,User_3,4,Development,-52.0,4,0,0,2,1,2,review peer pull request,1,User_8
+T0190,Review peer pull requests,2025-05-30,Medium,User_9,4,DevOps,-52.0,4,0,0,1,2,2,review peer pull request,1,User_3
+T0152,Create UI wireframes for feature,2025-05-30,Medium,User_7,10,DevOps,-52.0,5,0,0,1,1,2,creat ui wirefram featur,1,User_10
+T0141,Write integration tests for API,2025-05-31,Medium,User_4,2,Testing,-51.0,5,0,1,5,1,2,write integr test api,1,User_4
+T0113,Write integration tests for API,2025-05-31,Medium,User_5,9,Documentation,-51.0,5,0,1,3,0,2,write integr test api,1,User_4
+T0128,Review peer pull requests,2025-05-31,Medium,User_2,1,DevOps,-51.0,4,0,1,1,1,2,review peer pull request,1,User_7
+T0142,Update user guides,2025-05-31,Medium,User_3,1,DevOps,-51.0,3,0,1,1,0,2,updat user guid,1,User_5
+T0136,Create UI wireframes for feature,2025-05-31,Medium,User_5,6,Design,-51.0,5,0,1,0,0,2,creat ui wirefram featur,1,User_6
+T0191,Refactor module for scalability,2025-05-31,Medium,User_7,10,Management,-51.0,4,0,1,4,1,2,refactor modul scalabl,1,User_8
+T0106,Update user guides,2025-05-31,Medium,User_2,1,Design,-51.0,3,0,1,0,1,2,updat user guid,1,User_2
+T0192,Review peer pull requests,2025-05-31,Medium,User_8,7,DevOps,-51.0,4,0,1,1,0,2,review peer pull request,1,User_1
+T0153,Write integration tests for API,2025-06-01,Medium,User_5,1,Development,-50.0,5,0,1,2,0,2,write integr test api,1,User_3
+T0149,Write integration tests for API,2025-06-01,Medium,User_9,10,Management,-50.0,5,0,1,4,2,2,write integr test api,1,User_10
+T0112,Write integration tests for API,2025-06-01,Medium,User_5,5,Management,-50.0,5,0,1,4,2,2,write integr test api,1,User_9
+T0169,Review peer pull requests,2025-06-01,Medium,User_2,8,Management,-50.0,4,0,1,4,0,2,review peer pull request,1,User_7
+T0177,Refactor module for scalability,2025-06-01,Medium,User_1,7,Design,-50.0,4,0,1,0,1,2,refactor modul scalabl,1,User_8
+T0116,Create UI wireframes for feature,2025-06-01,Medium,User_8,1,Design,-50.0,5,0,1,0,0,2,creat ui wirefram featur,1,User_9
+T0124,Create UI wireframes for feature,2025-06-01,Medium,User_3,5,Development,-50.0,5,0,1,2,1,2,creat ui wirefram featur,1,User_4
+T0182,Refactor module for scalability,2025-06-02,Medium,User_9,2,Testing,-49.0,4,0,0,5,2,2,refactor modul scalabl,1,User_2
+T0117,Update user guides,2025-06-02,Medium,User_6,6,Design,-49.0,3,0,0,0,0,2,updat user guid,1,User_3
+T0103,Write integration tests for API,2025-06-02,Medium,User_8,1,DevOps,-49.0,5,0,0,1,2,2,write integr test api,1,User_1
+T0197,Update user guides,2025-06-03,Medium,User_7,5,Design,-48.0,3,0,0,0,0,2,updat user guid,1,User_5
+T0110,Write integration tests for API,2025-06-03,Medium,User_3,1,DevOps,-48.0,5,0,0,1,2,2,write integr test api,1,User_6
+T0155,Refactor module for scalability,2025-06-03,Medium,User_9,3,Documentation,-48.0,4,0,0,3,1,2,refactor modul scalabl,1,User_10
+T0195,Refactor module for scalability,2025-06-03,Medium,User_7,9,DevOps,-48.0,4,0,0,1,0,2,refactor modul scalabl,1,User_10
+T0196,Review peer pull requests,2025-06-03,Medium,User_2,9,DevOps,-48.0,4,0,0,1,1,2,review peer pull request,1,User_7
+T0178,Update user guides,2025-06-03,Medium,User_5,5,Documentation,-48.0,3,0,0,3,0,2,updat user guid,1,User_9
+T0163,Write integration tests for API,2025-06-03,Medium,User_7,4,Design,-48.0,5,0,0,0,1,2,write integr test api,1,User_2
+T0154,Write integration tests for API,2025-06-03,Medium,User_10,7,Design,-48.0,5,0,0,0,2,2,write integr test api,1,User_5
+T0125,Create UI wireframes for feature,2025-06-04,Medium,User_7,9,DevOps,-47.0,5,0,0,1,1,2,creat ui wirefram featur,1,User_1
+T0168,Refactor module for scalability,2025-06-04,Medium,User_1,1,Development,-47.0,4,0,0,2,1,2,refactor modul scalabl,1,User_4
+T0179,Create UI wireframes for feature,2025-06-04,Medium,User_3,10,Management,-47.0,5,0,0,4,0,2,creat ui wirefram featur,1,User_6
+T0151,Refactor module for scalability,2025-06-04,Medium,User_6,6,DevOps,-47.0,4,0,0,1,2,2,refactor modul scalabl,1,User_8
+T0111,Update user guides,2025-06-04,Medium,User_10,2,Documentation,-47.0,3,0,0,3,2,2,updat user guid,1,User_3
+T0134,Update user guides,2025-06-04,Medium,User_8,6,Documentation,-47.0,3,0,0,3,2,2,updat user guid,1,User_5
+T0189,Update user guides,2025-06-04,Medium,User_8,6,Testing,-47.0,3,0,0,5,0,2,updat user guid,1,User_2
+T0145,Refactor module for scalability,2025-06-05,Medium,User_3,8,DevOps,-46.0,4,0,0,1,0,2,refactor modul scalabl,1,User_3
+T0127,Review peer pull requests,2025-06-05,Medium,User_2,7,Development,-46.0,4,0,0,2,0,2,review peer pull request,1,User_10
+T0198,Create UI wireframes for feature,2025-06-05,Medium,User_8,8,Development,-46.0,5,0,0,2,2,2,creat ui wirefram featur,1,User_7
+T0143,Refactor module for scalability,2025-06-05,Medium,User_1,8,Management,-46.0,4,0,0,4,2,2,refactor modul scalabl,1,User_6
+T0123,Write integration tests for API,2025-06-05,Medium,User_2,9,Design,-46.0,5,0,0,0,2,2,write integr test api,1,User_8
+T0129,Write integration tests for API,2025-06-05,Medium,User_2,4,DevOps,-46.0,5,0,0,1,0,2,write integr test api,1,User_4
+T0157,Refactor module for scalability,2025-06-05,Medium,User_6,4,Design,-46.0,4,0,0,0,1,2,refactor modul scalabl,1,User_9
+T0122,Create UI wireframes for feature,2025-06-05,Medium,User_5,10,Management,-46.0,5,0,0,4,2,2,creat ui wirefram featur,1,User_1
+T0158,Update user guides,2025-06-06,Medium,User_2,5,Management,-45.0,3,0,0,4,1,2,updat user guid,1,User_2
+T0165,Create UI wireframes for feature,2025-06-06,Medium,User_2,8,DevOps,-45.0,5,0,0,1,1,2,creat ui wirefram featur,1,User_9
+T0133,Update user guides,2025-06-06,Medium,User_10,4,Documentation,-45.0,3,0,0,3,1,2,updat user guid,1,User_3
+T0140,Create UI wireframes for feature,2025-06-06,Medium,User_3,9,Documentation,-45.0,5,0,0,3,1,2,creat ui wirefram featur,1,User_1
+T0121,Create UI wireframes for feature,2025-06-06,Medium,User_7,4,Development,-45.0,5,0,0,2,0,2,creat ui wirefram featur,1,User_7
+T0160,Refactor module for scalability,2025-06-06,Medium,User_4,5,Testing,-45.0,4,0,0,5,0,2,refactor modul scalabl,1,User_5
+T0170,Review peer pull requests,2025-06-06,Medium,User_4,1,Documentation,-45.0,4,0,0,3,2,2,review peer pull request,1,User_10
+T0187,Write integration tests for API,2025-06-07,Medium,User_8,8,Testing,-44.0,5,0,1,5,2,2,write integr test api,1,User_8
+T0119,Write integration tests for API,2025-06-07,Medium,User_2,9,Documentation,-44.0,5,0,1,3,2,2,write integr test api,1,User_6
+T0184,Create UI wireframes for feature,2025-06-07,Medium,User_1,5,Design,-44.0,5,0,1,0,1,2,creat ui wirefram featur,1,User_4
+T0108,Write integration tests for API,2025-06-07,Medium,User_5,5,Development,-44.0,5,0,1,2,2,2,write integr test api,1,User_7
+T0159,Write integration tests for API,2025-06-07,Medium,User_9,8,DevOps,-44.0,5,0,1,1,0,2,write integr test api,1,User_5
+T0200,Create UI wireframes for feature,2025-06-07,Medium,User_8,7,Management,-44.0,5,0,1,4,2,2,creat ui wirefram featur,1,User_6
+T0135,Write integration tests for API,2025-06-07,Medium,User_8,3,Design,-44.0,5,0,1,0,2,2,write integr test api,1,User_1
+T0109,Write integration tests for API,2025-06-08,Medium,User_4,10,Development,-43.0,5,0,1,2,1,2,write integr test api,1,User_10
+T0102,Write integration tests for API,2025-06-08,Medium,User_1,9,Development,-43.0,5,0,1,2,0,2,write integr test api,1,User_3
+T0126,Review peer pull requests,2025-06-08,Medium,User_7,2,Development,-43.0,4,0,1,2,2,2,review peer pull request,1,User_2
+T0101,Refactor module for scalability,2025-06-08,Medium,User_7,1,Development,-43.0,4,0,1,2,1,2,refactor modul scalabl,1,User_9
+T0104,Review peer pull requests,2025-06-08,Medium,User_4,4,Testing,-43.0,4,0,1,5,0,2,review peer pull request,1,User_8
+T0167,Refactor module for scalability,2025-06-08,Medium,User_7,7,Development,-43.0,4,0,1,2,1,2,refactor modul scalabl,1,User_4
+T0131,Write integration tests for API,2025-06-08,Medium,User_10,7,Design,-43.0,5,0,1,0,2,2,write integr test api,1,User_7
+T0176,Write integration tests for API,2025-06-09,Medium,User_5,10,Management,-42.0,5,0,0,4,2,2,write integr test api,1,User_2
+T0181,Refactor module for scalability,2025-06-09,Medium,User_3,1,Testing,-42.0,4,0,0,5,0,2,refactor modul scalabl,1,User_10
+T0194,Create UI wireframes for feature,2025-06-09,Medium,User_1,2,DevOps,-42.0,5,0,0,1,2,2,creat ui wirefram featur,1,User_8
+T0115,Update user guides,2025-06-09,Medium,User_4,9,Design,-42.0,3,0,0,0,1,2,updat user guid,1,User_5
+T0138,Review peer pull requests,2025-06-09,Medium,User_5,10,Documentation,-42.0,4,0,0,3,1,2,review peer pull request,1,User_4
+T0144,Update user guides,2025-06-09,Medium,User_8,1,Testing,-42.0,3,0,0,5,2,2,updat user guid,1,User_3
+T0139,Review peer pull requests,2025-06-09,Medium,User_10,7,Development,-42.0,4,0,0,2,0,2,review peer pull request,1,User_9
+T0161,Write integration tests for API,2025-06-09,Medium,User_5,6,Documentation,-42.0,5,0,0,3,2,2,write integr test api,1,User_6
+T0107,Review peer pull requests,2025-06-09,Medium,User_9,2,DevOps,-42.0,4,0,0,1,0,2,review peer pull request,1,User_1
+T0042,Clean up old logs from server,2025-05-26,Low,User_4,4,Design,-56.0,6,0,0,0,1,1,clean old log server,2,User_1
+T0009,Clean up old logs from server,2025-05-26,Low,User_1,3,Design,-56.0,6,0,0,0,1,1,clean old log server,2,User_8
+T0022,Clean up old logs from server,2025-05-26,Low,User_6,3,DevOps,-56.0,6,0,0,1,0,1,clean old log server,2,User_5
+T0100,Update internal documentation,2025-05-26,Low,User_4,6,Design,-56.0,3,0,0,0,0,1,updat intern document,2,User_7
+T0058,Organize shared team files,2025-05-27,Low,User_1,4,DevOps,-55.0,4,0,0,1,1,1,organ share team file,2,User_2
+T0002,Organize shared team files,2025-05-27,Low,User_8,7,DevOps,-55.0,4,0,0,1,0,1,organ share team file,2,User_10
+T0092,Send status update to manager,2025-05-27,Low,User_8,7,Design,-55.0,5,0,0,0,0,1,send statu updat manag,2,User_4
+T0016,Organize shared team files,2025-05-28,Low,User_3,2,Documentation,-54.0,4,0,0,3,2,1,organ share team file,2,User_9
+T0038,Organize shared team files,2025-05-28,Low,User_2,3,Design,-54.0,4,0,0,0,0,1,organ share team file,2,User_3
+T0030,Send status update to manager,2025-05-28,Low,User_1,7,Management,-54.0,5,0,0,4,1,1,send statu updat manag,2,User_6
+T0084,Clean up old logs from server,2025-05-28,Low,User_10,1,Design,-54.0,6,0,0,0,1,1,clean old log server,2,User_10
+T0008,Send status update to manager,2025-05-29,Low,User_8,8,DevOps,-53.0,5,0,0,1,0,1,send statu updat manag,2,User_1
+T0091,Clean up old logs from server,2025-05-29,Low,User_1,6,Documentation,-53.0,6,0,0,3,0,1,clean old log server,2,User_5
+T0007,Update internal documentation,2025-05-29,Low,User_4,8,Design,-53.0,3,0,0,0,0,1,updat intern document,2,User_4
+T0067,Schedule weekly team sync,2025-05-29,Low,User_7,5,Management,-53.0,4,0,0,4,0,1,schedul weekli team sync,2,User_3
+T0032,Send status update to manager,2025-05-29,Low,User_6,7,Design,-53.0,5,0,0,0,0,1,send statu updat manag,2,User_2
+T0052,Update internal documentation,2025-05-29,Low,User_1,10,Management,-53.0,3,0,0,4,1,1,updat intern document,2,User_9
+T0027,Clean up old logs from server,2025-05-29,Low,User_5,7,Design,-53.0,6,0,0,0,0,1,clean old log server,2,User_7
+T0062,Schedule weekly team sync,2025-05-29,Low,User_2,6,Development,-53.0,4,0,0,2,1,1,schedul weekli team sync,2,User_8
+T0071,Send status update to manager,2025-05-29,Low,User_8,7,Development,-53.0,5,0,0,2,0,1,send statu updat manag,2,User_6
+T0041,Send status update to manager,2025-05-29,Low,User_5,6,DevOps,-53.0,5,0,0,1,1,1,send statu updat manag,2,User_5
+T0082,Send status update to manager,2025-05-29,Low,User_10,6,DevOps,-53.0,5,0,0,1,2,1,send statu updat manag,2,User_6
+T0079,Schedule weekly team sync,2025-05-30,Low,User_5,4,Testing,-52.0,4,0,0,5,2,1,schedul weekli team sync,2,User_7
+T0043,Update internal documentation,2025-05-30,Low,User_5,7,Testing,-52.0,3,0,0,5,0,1,updat intern document,2,User_10
+T0017,Clean up old logs from server,2025-05-30,Low,User_5,8,Design,-52.0,6,0,0,0,1,1,clean old log server,2,User_8
+T0037,Organize shared team files,2025-05-30,Low,User_6,8,Development,-52.0,4,0,0,2,0,1,organ share team file,2,User_3
+T0089,Schedule weekly team sync,2025-05-30,Low,User_6,5,Documentation,-52.0,4,0,0,3,2,1,schedul weekli team sync,2,User_2
+T0076,Organize shared team files,2025-05-31,Low,User_2,9,Development,-51.0,4,0,1,2,0,1,organ share team file,2,User_9
+T0026,Schedule weekly team sync,2025-05-31,Low,User_8,2,Design,-51.0,4,0,1,0,1,1,schedul weekli team sync,2,User_1
+T0070,Update internal documentation,2025-05-31,Low,User_6,6,Management,-51.0,3,0,1,4,1,1,updat intern document,2,User_4
+T0097,Clean up old logs from server,2025-05-31,Low,User_1,3,Management,-51.0,6,0,1,4,0,1,clean old log server,2,User_6
+T0090,Schedule weekly team sync,2025-05-31,Low,User_5,4,Testing,-51.0,4,0,1,5,2,1,schedul weekli team sync,2,User_9
+T0012,Organize shared team files,2025-05-31,Low,User_8,2,Design,-51.0,4,0,1,0,0,1,organ share team file,2,User_4
+T0059,Update internal documentation,2025-05-31,Low,User_2,1,DevOps,-51.0,3,0,1,1,0,1,updat intern document,2,User_2
+T0018,Organize shared team files,2025-06-01,Low,User_10,10,Management,-50.0,4,0,1,4,0,1,organ share team file,2,User_1
+T0031,Schedule weekly team sync,2025-06-01,Low,User_3,6,Development,-50.0,4,0,1,2,0,1,schedul weekli team sync,2,User_10
+T0061,Schedule weekly team sync,2025-06-02,Low,User_6,7,Management,-49.0,4,0,0,4,1,1,schedul weekli team sync,2,User_3
+T0075,Schedule weekly team sync,2025-06-02,Low,User_3,2,Management,-49.0,4,0,0,4,2,1,schedul weekli team sync,2,User_5
+T0028,Update internal documentation,2025-06-02,Low,User_6,5,Development,-49.0,3,0,0,2,2,1,updat intern document,2,User_8
+T0005,Send status update to manager,2025-06-02,Low,User_4,7,Management,-49.0,5,0,0,4,0,1,send statu updat manag,2,User_7
+T0065,Clean up old logs from server,2025-06-02,Low,User_10,2,Design,-49.0,6,0,0,0,1,1,clean old log server,2,User_2
+T0024,Schedule weekly team sync,2025-06-02,Low,User_6,2,Testing,-49.0,4,0,0,5,0,1,schedul weekli team sync,2,User_7
+T0055,Organize shared team files,2025-06-02,Low,User_3,3,DevOps,-49.0,4,0,0,1,2,1,organ share team file,2,User_10
+T0034,Update internal documentation,2025-06-03,Low,User_7,5,Development,-48.0,3,0,0,2,0,1,updat intern document,2,User_4
+T0087,Organize shared team files,2025-06-03,Low,User_1,8,Development,-48.0,4,0,0,2,1,1,organ share team file,2,User_9
+T0029,Send status update to manager,2025-06-03,Low,User_4,4,DevOps,-48.0,5,0,0,1,1,1,send statu updat manag,2,User_1
+T0045,Schedule weekly team sync,2025-06-03,Low,User_9,9,Testing,-48.0,4,0,0,5,0,1,schedul weekli team sync,2,User_3
+T0004,Send status update to manager,2025-06-03,Low,User_8,5,Testing,-48.0,5,0,0,5,1,1,send statu updat manag,2,User_8
+T0072,Send status update to manager,2025-06-03,Low,User_1,2,Management,-48.0,5,0,0,4,0,1,send statu updat manag,2,User_6
+T0077,Clean up old logs from server,2025-06-04,Low,User_9,6,Design,-47.0,6,0,0,0,2,1,clean old log server,2,User_5
+T0011,Schedule weekly team sync,2025-06-04,Low,User_4,6,Design,-47.0,4,0,0,0,2,1,schedul weekli team sync,2,User_9
+T0069,Update internal documentation,2025-06-04,Low,User_6,10,Documentation,-47.0,3,0,0,3,2,1,updat intern document,2,User_5
+T0003,Clean up old logs from server,2025-06-04,Low,User_6,8,Documentation,-47.0,6,0,0,3,2,1,clean old log server,2,User_6
+T0033,Update internal documentation,2025-06-04,Low,User_8,4,Documentation,-47.0,3,0,0,3,0,1,updat intern document,2,User_4
+T0063,Clean up old logs from server,2025-06-04,Low,User_9,7,Management,-47.0,6,0,0,4,1,1,clean old log server,2,User_2
+T0040,Clean up old logs from server,2025-06-04,Low,User_10,7,Development,-47.0,6,0,0,2,0,1,clean old log server,2,User_8
+T0015,Send status update to manager,2025-06-04,Low,User_1,6,Development,-47.0,5,0,0,2,1,1,send statu updat manag,2,User_3
+T0048,Send status update to manager,2025-06-04,Low,User_3,8,DevOps,-47.0,5,0,0,1,2,1,send statu updat manag,2,User_1
+T0078,Organize shared team files,2025-06-05,Low,User_9,3,Management,-46.0,4,0,0,4,2,1,organ share team file,2,User_10
+T0013,Send status update to manager,2025-06-05,Low,User_3,1,Management,-46.0,5,0,0,4,0,1,send statu updat manag,2,User_7
+T0036,Send status update to manager,2025-06-05,Low,User_6,3,Development,-46.0,5,0,0,2,0,1,send statu updat manag,2,User_3
+T0095,Update internal documentation,2025-06-05,Low,User_6,2,Development,-46.0,3,0,0,2,1,1,updat intern document,2,User_9
+T0035,Organize shared team files,2025-06-05,Low,User_2,3,Documentation,-46.0,4,0,0,3,2,1,organ share team file,2,User_1
+T0051,Schedule weekly team sync,2025-06-05,Low,User_1,4,Testing,-46.0,4,0,0,5,1,1,schedul weekli team sync,2,User_4
+T0021,Organize shared team files,2025-06-05,Low,User_7,3,Development,-46.0,4,0,0,2,0,1,organ share team file,2,User_7
+T0083,Clean up old logs from server,2025-06-06,Low,User_8,4,Design,-45.0,6,0,0,0,2,1,clean old log server,2,User_5
+T0020,Update internal documentation,2025-06-06,Low,User_3,7,Development,-45.0,3,0,0,2,2,1,updat intern document,2,User_2
+T0080,Update internal documentation,2025-06-06,Low,User_7,8,Management,-45.0,3,0,0,4,2,1,updat intern document,2,User_6
+T0099,Clean up old logs from server,2025-06-06,Low,User_10,4,DevOps,-45.0,6,0,0,1,1,1,clean old log server,2,User_8
+T0050,Send status update to manager,2025-06-06,Low,User_6,9,Testing,-45.0,5,0,0,5,1,1,send statu updat manag,2,User_10
+T0053,Send status update to manager,2025-06-06,Low,User_2,8,Testing,-45.0,5,0,0,5,2,1,send statu updat manag,2,User_10
+T0049,Clean up old logs from server,2025-06-06,Low,User_1,10,DevOps,-45.0,6,0,0,1,1,1,clean old log server,2,User_1
+T0088,Update internal documentation,2025-06-06,Low,User_4,5,Design,-45.0,3,0,0,0,1,1,updat intern document,2,User_9
+T0010,Update internal documentation,2025-06-07,Low,User_5,9,Documentation,-44.0,3,0,1,3,0,1,updat intern document,2,User_5
+T0047,Send status update to manager,2025-06-07,Low,User_1,1,Design,-44.0,5,0,1,0,2,1,send statu updat manag,2,User_3
+T0064,Clean up old logs from server,2025-06-07,Low,User_7,5,Development,-44.0,6,0,1,2,0,1,clean old log server,2,User_4
+T0098,Update internal documentation,2025-06-07,Low,User_8,1,Documentation,-44.0,3,0,1,3,1,1,updat intern document,2,User_7
+T0057,Organize shared team files,2025-06-07,Low,User_8,3,Testing,-44.0,4,0,1,5,1,1,organ share team file,2,User_6
+T0085,Organize shared team files,2025-06-07,Low,User_5,8,DevOps,-44.0,4,0,1,1,2,1,organ share team file,2,User_8
+T0068,Schedule weekly team sync,2025-06-07,Low,User_4,6,Design,-44.0,4,0,1,0,0,1,schedul weekli team sync,2,User_2
+T0019,Schedule weekly team sync,2025-06-07,Low,User_4,4,DevOps,-44.0,4,0,1,1,0,1,schedul weekli team sync,2,User_3
+T0056,Clean up old logs from server,2025-06-07,Low,User_1,3,DevOps,-44.0,6,0,1,1,2,1,clean old log server,2,User_4
+T0039,Send status update to manager,2025-06-07,Low,User_10,6,Development,-44.0,5,0,1,2,1,1,send statu updat manag,2,User_2
+T0066,Update internal documentation,2025-06-07,Low,User_10,3,Documentation,-44.0,3,0,1,3,1,1,updat intern document,2,User_7
+T0086,Send status update to manager,2025-06-07,Low,User_5,10,DevOps,-44.0,5,0,1,1,2,1,send statu updat manag,2,User_1
+T0001,Update internal documentation,2025-06-07,Low,User_4,4,Management,-44.0,3,0,1,4,1,1,updat intern document,2,User_9
+T0044,Clean up old logs from server,2025-06-07,Low,User_5,7,Testing,-44.0,6,0,1,5,1,1,clean old log server,2,User_6
+T0081,Clean up old logs from server,2025-06-07,Low,User_1,1,Design,-44.0,6,0,1,0,1,1,clean old log server,2,User_8
+T0006,Send status update to manager,2025-06-08,Low,User_1,10,Documentation,-43.0,5,0,1,3,1,1,send statu updat manag,2,User_5
+T0025,Update internal documentation,2025-06-08,Low,User_10,2,Management,-43.0,3,0,1,4,0,1,updat intern document,2,User_10
+T0074,Clean up old logs from server,2025-06-08,Low,User_8,4,Documentation,-43.0,6,0,1,3,0,1,clean old log server,2,User_3
+T0093,Schedule weekly team sync,2025-06-08,Low,User_6,1,Design,-43.0,4,0,1,0,2,1,schedul weekli team sync,2,User_7
+T0073,Organize shared team files,2025-06-08,Low,User_5,10,Development,-43.0,4,0,1,2,2,1,organ share team file,2,User_1
+T0096,Clean up old logs from server,2025-06-08,Low,User_4,1,Testing,-43.0,6,0,1,5,1,1,clean old log server,2,User_8
+T0014,Update internal documentation,2025-06-08,Low,User_7,7,Documentation,-43.0,3,0,1,3,1,1,updat intern document,2,User_4
+T0046,Clean up old logs from server,2025-06-09,Low,User_8,1,Design,-42.0,6,0,0,0,2,1,clean old log server,2,User_9
+T0094,Clean up old logs from server,2025-06-09,Low,User_3,5,Testing,-42.0,6,0,0,5,1,1,clean old log server,2,User_6
+T0060,Send status update to manager,2025-06-09,Low,User_8,10,Development,-42.0,5,0,0,2,1,1,send statu updat manag,2,User_5
+T0023,Send status update to manager,2025-06-09,Low,User_4,10,Testing,-42.0,5,0,0,5,2,1,send statu updat manag,2,User_2
+T0054,Clean up old logs from server,2025-06-09,Low,User_6,4,Testing,-42.0,6,0,0,5,2,1,clean old log server,2,User_10
